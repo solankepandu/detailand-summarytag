@@ -1,0 +1,33 @@
+h1{
+    height: 60px;
+    background-color: burlywood;
+    text-align: center;
+}
+.container{
+     margin-left: 200px;
+     margin-right: 200px;
+     text-align:center ;
+    
+}
+.one{
+    border-style: groove;
+    display: inline-block;
+    text-decoration: underline;
+    
+
+}
+.two{
+    border-style: groove;
+    display: inline-block;
+    text-decoration: underline;
+}
+.three{
+    border-style: groove;
+    display: inline-block;
+    text-decoration: underline;
+}
+footer{
+    height: 30px;
+    background-color: burlywood;
+    text-align:center;
+}
